@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Doe on My Awesome Site</title>
-    <link>http://yourwebsite.com/</link>
-    <description>Recent content in John Doe on My Awesome Site</description>
+    <title>John Doe on Nishant&#39;s Blog</title>
+    <link>https://nishraptor.github.io/</link>
+    <description>Recent content in John Doe on Nishant&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jun 2018 03:00:53 +0600</lastBuildDate>
     
-	<atom:link href="http://yourwebsite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nishraptor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Science is a Faith-Based System</title>
-      <link>http://yourwebsite.com/posts/ethics/</link>
+      <link>https://nishraptor.github.io/posts/ethics/</link>
       <pubDate>Thu, 28 Feb 2019 03:01:38 +0600</pubDate>
       
-      <guid>http://yourwebsite.com/posts/ethics/</guid>
+      <guid>https://nishraptor.github.io/posts/ethics/</guid>
       <description>The dictionary definition of a religion is &amp;ldquo;A particular system of faith and worship&amp;rdquo;. Dominant religions throughout history such as Christianity, Judaism, Hinduism, and Islam have formed to function primarily as a faith-based moral guideline, and secondarily as common ground to form communities. Current day science functions much the same way.
 The rigidity of science is due to the scientific method. Experiments are expected to be repeatable, and experiments are analyzed with careful scrutiny.</description>
     </item>
     
     <item>
       <title>Cosmic Inflation</title>
-      <link>http://yourwebsite.com/posts/cosmic-inflation/</link>
+      <link>https://nishraptor.github.io/posts/cosmic-inflation/</link>
       <pubDate>Tue, 03 Apr 2018 03:01:38 +0600</pubDate>
       
-      <guid>http://yourwebsite.com/posts/cosmic-inflation/</guid>
+      <guid>https://nishraptor.github.io/posts/cosmic-inflation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instrumentation Amplifier</title>
-      <link>http://yourwebsite.com/posts/the-instrumentation-amplifier/</link>
+      <link>https://nishraptor.github.io/posts/the-instrumentation-amplifier/</link>
       <pubDate>Sun, 01 Apr 2018 03:01:32 +0600</pubDate>
       
-      <guid>http://yourwebsite.com/posts/the-instrumentation-amplifier/</guid>
+      <guid>https://nishraptor.github.io/posts/the-instrumentation-amplifier/</guid>
       <description></description>
     </item>
     
