@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yourwebsite.com/posts/ethics/</loc>
+    <lastmod>2019-02-28T03:01:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/all/</loc>
+    <lastmod>2018-06-06T03:01:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/</loc>
+    <lastmod>2018-06-06T03:00:53+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/posts/cosmic-inflation/</loc>
+    <lastmod>2018-04-03T03:01:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/posts/the-instrumentation-amplifier/</loc>
+    <lastmod>2018-04-01T03:01:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/posts/</loc>
+    <lastmod>2019-02-28T03:01:38+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

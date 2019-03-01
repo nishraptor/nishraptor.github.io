@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Awesome Site</title>
+    <link>http://yourwebsite.com/posts/</link>
+    <description>Recent content in Posts on My Awesome Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 03:01:38 +0600</lastBuildDate>
+    
+	<atom:link href="http://yourwebsite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science is a Faith-Based System</title>
+      <link>http://yourwebsite.com/posts/ethics/</link>
+      <pubDate>Thu, 28 Feb 2019 03:01:38 +0600</pubDate>
+      
+      <guid>http://yourwebsite.com/posts/ethics/</guid>
+      <description>The dictionary definition of a religion is &amp;ldquo;A particular system of faith and worship&amp;rdquo;. Dominant religions throughout history such as Christianity, Judaism, Hinduism, and Islam have formed to function primarily as a faith-based moral guideline, and secondarily as common ground to form communities. Current day science functions much the same way.
+The rigidity of science is due to the scientific method. Experiments are expected to be repeatable, and experiments are analyzed with careful scrutiny.</description>
+    </item>
+    
+    <item>
+      <title>Cosmic Inflation</title>
+      <link>http://yourwebsite.com/posts/cosmic-inflation/</link>
+      <pubDate>Tue, 03 Apr 2018 03:01:38 +0600</pubDate>
+      
+      <guid>http://yourwebsite.com/posts/cosmic-inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumentation Amplifier</title>
+      <link>http://yourwebsite.com/posts/the-instrumentation-amplifier/</link>
+      <pubDate>Sun, 01 Apr 2018 03:01:32 +0600</pubDate>
+      
+      <guid>http://yourwebsite.com/posts/the-instrumentation-amplifier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
